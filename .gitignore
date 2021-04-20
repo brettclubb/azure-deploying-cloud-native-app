@@ -290,3 +290,4 @@ Thumbs.db
 *.xhtml
 
 # End of https://www.toptal.com/developers/gitignore/api/node,python,web
+.python_packages
